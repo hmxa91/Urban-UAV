@@ -35,3 +35,5 @@ Minimum cost incurred for a custom UAV can range between
 ### CODE DETAILS
 
 Initially the code was written by NASA
+but many have contributed in its development since
+NASA relaeased it to public for improvement and bug fixes.
